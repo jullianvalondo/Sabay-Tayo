@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="locations">
+        <item>PHPIN</item>
+        <item>PHPIN2</item>
+        <item>PHPIN3</item>
+        <item>PHSBL</item>
+        <item>PHSBL2</item>
+        <item>PHSBL3</item>
+    </string-array>
+</resources>

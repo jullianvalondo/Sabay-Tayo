@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#F44336</color>
+
+    <!--grayscale -->
+    <color name="white"     >#FFFFFF</color>
+    <color name="gray_light">#DBDBDB</color>
+    <color name="gray"      >#939393</color>
+    <color name="gray_dark" >#5F5F5F</color>
+    <color name="black"     >#323232</color>
+
+    <!--red-->
+    <color name="material_red_100">#FFCDD2</color>
+    <color name="material_red_300">#E57373</color>
+    <color name="material_red_500">#F44336</color>
+    <color name="material_red_700">#D32F2F</color>
+    <color name="material_red_900">#B71C1C</color>
+
+    <!--orange-->
+    <color name="material_orange_100">#FFE0B2</color>
+    <color name="material_orange_500">#FF9800</color>
+    <color name="material_orange_800">#EF6C00</color>
+    <color name="material_orange_900">#E65100</color>
+
+    <!--blue-->
+    <color name="material_blue_a100">#80D8FF</color>
+    <color name="material_blue_a200">#40C4FF</color>
+    <color name="material_blue_a400">#00B0FF</color>
+    <color name="material_blue_a700">#0091EA</color>
+
+    <!--blue grey-->
+    <color name="material_blue_grey_100">#CFD8DC</color>
+    <color name="material_blue_grey_200">#B0BEC5</color>
+    <color name="material_blue_grey_500">#607D8B</color>
+    <color name="material_blue_grey_700">#455A64</color>
+
+    <!-- green -->
+    <color name="material_green_100">#C8E6C9</color>
+    <color name="material_green_200">#A5D6A7</color>
+    <color name="material_green_500">#4CAF50</color>
+    <color name="material_green_700">#388E3C</color>
+    <color name="material_green_800">#2E7D32</color>
+
+    <!-- amber -->
+    <color name="material_amber_100">#FFECB3</color>
+    <color name="material_amber_200">#FFE082</color>
+    <color name="material_amber_500">#FFC107</color>
+    <color name="material_amber_700">#FFA000</color>
+    <color name="material_amber_800">#FF8F00</color>
+    <color name="material_amber_a100">#FFE57F</color>
+    <color name="material_amber_a200">#FFD740</color>
+    <color name="material_amber_a400">#FFC400</color>
+    <color name="material_amber_a700">#FFAB00</color>
+
+    <!-- light green -->
+    <color name="material_light_green_a200">#B2FF59</color>
+    <color name="material_light_green_a400">#76FF03</color>
+
+    <!-- text color material light -->
+    <color name="material_light_text_primary">#DE000000</color>
+    <color name="material_light_text_secondary">#8A000000</color>
+    <color name="material_light_text_disabled">#61000000</color>
+    <color name="material_light_text_divider">#31000000</color>
+
+    <!-- text color material dark -->
+    <color name="material_dark_text_primary">#FFFFFF</color>
+    <color name="material_dark_text_secondary">#B3FFFFFF</color>
+    <color name="material_dark_text_disabled">#4DFFFFFF</color>
+    <color name="material_dark_text_divider">#1FFFFFFF</color>
+
+    <!-- trophy colors -->
+    <color name="gold">#FFD700</color>
+    <color name="silver">#c0c0c0</color>
+    <color name="bronze">#cd7f32</color>
+</resources>
